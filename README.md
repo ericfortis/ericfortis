@@ -11,6 +11,9 @@ HTTP Mock Sever with a UI
   <img alt="Mockaton Dashboard" src="https://raw.githubusercontent.com/ericfortis/mockaton/refs/heads/main/pixaton-tests/tests/macos/pic-for-readme.vp761x740.dark.gold.png" style="max-width:560px">
 </picture>
 
+Chrome DevTools Extension for downloading HTTP responses
+<img alt="DevTools Extension" src="https://raw.githubusercontent.com/ericfortis/mockaton/refs/heads/main/browser-extension/browser-extension-overview.png" style="max-width:880px" />
+
 
 ### [pixaton](https://github.com/ericfortis/pixaton)
 A collection of Puppeteer helpers for testing UIs by pixel diffing screenshots
