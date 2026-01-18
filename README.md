@@ -8,12 +8,14 @@
 HTTP Mock Sever with a UI
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericfortis/mockaton/refs/heads/main/pixaton-tests/tests/macos/pic-for-readme.vp761x740.light.gold.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericfortis/mockaton/refs/heads/main/pixaton-tests/tests/macos/pic-for-readme.vp761x740.dark.gold.png">
-  <img alt="Mockaton Dashboard" src="https://raw.githubusercontent.com/ericfortis/mockaton/refs/heads/main/pixaton-tests/tests/macos/pic-for-readme.vp761x740.dark.gold.png" style="max-width:560px">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericfortis/mockaton/refs/heads/main/pixaton-tests/tests/macos/pic-for-readme.vp762x762.light.gold.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericfortis/mockaton/refs/heads/main/pixaton-tests/tests/macos/pic-for-readme.vp762x762.dark.gold.png">
+  <img alt="Mockaton Dashboard" src="https://raw.githubusercontent.com/ericfortis/mockaton/refs/heads/main/pixaton-tests/tests/macos/pic-for-readme.vp762x762.dark.gold.png" style="max-width:560px">
 </picture>
 
-Chrome DevTools Extension for downloading HTTP responses
+<br/>
+
+#### Chrome DevTools Extension for downloading HTTP responses
 <img alt="DevTools Extension" src="https://raw.githubusercontent.com/ericfortis/mockaton/refs/heads/main/browser-extension/browser-extension-overview.png" style="max-width:880px" />
 
 
