@@ -48,10 +48,10 @@ Ahead of Time Fetch for speeding up SPAs
 ### [web-tricks](https://github.com/ericfortis/web-tricks)
 Collection of HTML, CSS, JS tricks
 
-### [js‑utils](https://github.com/uxtely/js‑utils)
+### [js‑utils](https://github.com/uxtely/js-utils)
 JavaScript utilities used in uxtly.com. A collection of utility functions and helpers
 
-### [ops‑utils](https://github.com/uxtely/ops‑utils)
+### [ops‑utils](https://github.com/uxtely/ops-utils)
 Scripts for setting up and running web infrastructures. Utilities for web ops tasks, including various scripts used in Uxtly
 
 ### [type-value-checker](https://github.com/ericfortis/type-value-checker)
