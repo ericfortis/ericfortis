@@ -14,6 +14,7 @@ HTTP Mock Sever with a UI
 </picture>
 
 <br/>
+<br/>
 
 #### Chrome DevTools Extension for downloading HTTP responses
 <img alt="DevTools Extension" src="https://raw.githubusercontent.com/ericfortis/mockaton/refs/heads/main/browser-extension/browser-extension-overview.png" style="max-width:880px" />
@@ -33,9 +34,20 @@ Utilities optimizing and preparing video and images for the web
 ### [verdanacamel](https://github.com/ericfortis/verdanacamel)
 A proportional programming font that has a 1/3 of space before capital letters
 
-
 <img alt="VerdanaCamel" src="https://raw.githubusercontent.com/ericfortis/verdanacamel/refs/heads/main/verdana-camel-vs-jetbrains-mono.jpeg"  width="580"/>
 
+
+### [tabular-eye](https://github.com/ericfortis/tabular-eye)
+JetBrains extension for rendering certain code blocks in two columns without adding whitespace and supports proportional fonts.
+
+<img alt="Tabular Eye" src="https://raw.githubusercontent.com/ericfortis/tabular-eye/refs/heads/main/docs/images/js-tuples.png" width="860" />
+
+
+### [tailwind-eye]([https://github.com/ericfortis/tabular-eye](https://github.com/ericfortis/tailwind-eye))
+JetBrains extension that provides a visual fading or folding effect.
+
+<img alt="Tailwind Eye" src="https://raw.githubusercontent.com/ericfortis/tailwind-eye/refs/heads/main/docs/dim.png" width="860" />
+<img alt="Tailwind Eye" src="https://raw.githubusercontent.com/ericfortis/tailwind-eye/refs/heads/main/docs/fold.png" width="860" />
 
 
 <br/>
