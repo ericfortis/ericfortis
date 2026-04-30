@@ -43,11 +43,11 @@ JetBrains extension for rendering certain code blocks in two columns without add
 <img alt="Tabular Eye" src="https://raw.githubusercontent.com/ericfortis/tabular-eye/refs/heads/main/docs/images/js-tuples.png" width="860" />
 
 
-### [tailwind-eye]([https://github.com/ericfortis/tabular-eye](https://github.com/ericfortis/tailwind-eye))
+### [tailwind-eye](https://github.com/ericfortis/tailwind-eye)
 JetBrains extension that provides a visual fading or folding effect.
 
-<img alt="Tailwind Eye" src="https://raw.githubusercontent.com/ericfortis/tailwind-eye/refs/heads/main/docs/dim.png" width="860" />
-<img alt="Tailwind Eye" src="https://raw.githubusercontent.com/ericfortis/tailwind-eye/refs/heads/main/docs/fold.png" width="860" />
+<img alt="Tailwind Eye" src="https://raw.githubusercontent.com/ericfortis/tailwind-eye/refs/heads/main/docs/side-by-side.png" width="860" />
+
 
 
 <br/>
