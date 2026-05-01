@@ -22,7 +22,9 @@ HTTP Mock Sever with a UI
 
 ### [pixaton](https://github.com/ericfortis/pixaton)
 A collection of Puppeteer helpers for testing UIs by pixel diffing screenshots, and a reviewing app:
+
 <img alt="Pixaton" src="https://raw.githubusercontent.com/ericfortis/pixaton/refs/heads/main/README-example-diff.png" style="max-width:880px" />
+<img alt="Pixaton" src="https://raw.githubusercontent.com/ericfortis/pixaton/refs/heads/main/README-example-diff2.png" style="max-width:380px" />
 
 
 ### [packaton](https://github.com/ericfortis/packaton)
