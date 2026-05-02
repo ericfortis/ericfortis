@@ -81,7 +81,8 @@ Runtime type and value checking
 ### [lissajous](https://github.com/ericfortis/lissajous)
 Lissajous Curve Interactive Demo
 
-<img src="https://raw.githubusercontent.com/ericfortis/lissajous/refs/heads/main/README-lissajous-demo.png" style="max-width:640px" />
+https://github.com/user-attachments/assets/94b31e81-590e-4524-b1f0-7571cbc47f5a
+
 
 ### [web-animations](https://github.com/ericfortis/web-animations)
 Animation projects for learning Web Frontend programming
