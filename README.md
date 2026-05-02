@@ -25,7 +25,9 @@ A collection of Puppeteer helpers for testing UIs by pixel diffing screenshots, 
 
 
 
-https://github.com/user-attachments/assets/b6039585-ef29-4646-a259-91191ad8997e
+
+https://github.com/user-attachments/assets/7ad7b08f-bce7-43a3-a618-427e3a143591
+
 
 
 
