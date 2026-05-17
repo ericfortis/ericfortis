@@ -108,7 +108,7 @@ Projects for learning Web Frontend Programming. Plain JS, CSS, HTML
 
 ### [final-cut-pro-scene-detect](https://github.com/ericfortis/final-cut-pro-scene-detect)
 Creates a Final Cut Pro project with a timeline cut at the scene changes of a video
-<img src="https://raw.githubusercontent.com/ericfortis/final-cut-pro-scene-detect/refs/heads/main/README-gui.png" style="max-width:540px" />
+![](https://raw.githubusercontent.com/ericfortis/final-cut-pro-scene-detect/refs/heads/main/docs/gui.png)
 
 ### [final-cut-pro-automation](https://github.com/ericfortis/final-cut-pro-automation)
 AppleScript for Automating Final Cut Pro Compound Clip
