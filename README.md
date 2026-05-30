@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/7ad7b08f-bce7-43a3-a618-427e3a143591
 Static Pages bundler
 
 ### [mediasnacks](https://github.com/ericfortis/mediasnacks)
-Utilities optimizing and preparing video and images for the web
+Utilities optimizing, analyzing, and restoring media files
 
 ### [verdanacamel](https://github.com/ericfortis/verdanacamel)
 A proportional programming font that has a 1/3 of space before capital letters
@@ -71,6 +71,10 @@ JetBrains extension that provides a visual fading or folding effect.
 Ahead of Time Fetch for speeding up SPAs
 
 <img src="https://raw.githubusercontent.com/ericfortis/aot-fetch-demo/refs/heads/main/docs/aot-summary.png" width="580" />
+
+### [netsnacks](https://github.com/ericfortis/netsnacks)
+Network utilities for web development
+
 
 ### [web-tricks](https://github.com/ericfortis/web-tricks)
 Collection of HTML, CSS, JS tricks
