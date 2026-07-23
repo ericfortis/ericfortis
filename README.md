@@ -41,7 +41,7 @@ Utilities optimizing, analyzing, and restoring media files
 ### [camelana](https://github.com/ericfortis/camelana)
 A proportional programming font that has a 1/3 of space before capital letters
 
-![Camelana Coding Font](https://raw.githubusercontent.com/ericfortis/camelana/main/camelana-vs-jetbrains-mono.png)
+![Camelana Coding Font](https://raw.githubusercontent.com/ericfortis/camelana/main/docs/camelana-vs-jetbrains-mono.png)
 
 
 ### [tabular-eye](https://github.com/ericfortis/tabular-eye)
