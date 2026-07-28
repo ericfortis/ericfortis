@@ -53,9 +53,6 @@ https://github.com/user-attachments/assets/f687ce32-71e9-47af-b348-c0ac6f90d71d
 
 
 
-<img alt="Tabular Eye" src="https://raw.githubusercontent.com/ericfortis/tabular-eye/refs/heads/main/docs/images/js-tuples.png" width="860" />
-
-
 ### [tailwind-eye](https://github.com/ericfortis/tailwind-eye)
 JetBrains extension that provides a visual fading or folding effect.
 
