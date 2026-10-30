@@ -59,6 +59,12 @@ JetBrains extension that provides a visual fading or folding effect.
 <img alt="Tailwind Eye" src="https://raw.githubusercontent.com/ericfortis/tailwind-eye/refs/heads/main/docs/side-by-side.png" width="860" />
 
 
+### [syntax-eye](https://github.com/ericfortis/syntax-eye)
+JetBrains extension for adding a custom syntax format to arbitrary strings. e.g., `this.` in this photo is in a faint style.
+
+<img alt="Tailwind Eye" src="https://raw.githubusercontent.com/ericfortis/syntax-eye/refs/heads/main/docs/images/syntax-eye-this-sample.png" width="460" />
+
+
 
 <br/>
 
